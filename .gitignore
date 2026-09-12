@@ -1,0 +1,22 @@
+__pycache__/
+.DS_Store
+
+# Course handouts, reports and lecture slides
+*.pdf
+*.pptx
+
+# Archives: assignment skeletons, hand-in bundles, packaged datasets
+*.zip
+
+# Datasets — download or unzip locally, see each lab's instructions
+lab3-deep-learning/data/cifar-10-python.tar.gz
+lab3-deep-learning/data/cifar-10-batches-py/
+lab3-deep-learning/data/MNIST/
+lab4-image-segmentation/seg-net/data/
+lab5-generative-model/data/
+
+# Superseded drafts of the SfM solution
+*_working.py
+
+# SVN metadata that shipped with the provided course data
+.svn/
